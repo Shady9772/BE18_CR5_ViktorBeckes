@@ -46,8 +46,6 @@ if ($_POST) {
    header("location: index.php");
 }
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
    <head>
